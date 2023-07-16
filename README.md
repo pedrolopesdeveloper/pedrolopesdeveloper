@@ -23,7 +23,7 @@
 
     "Abraçando o poder da tecnologia e desbloqueando possibilidades infinitas."
     
-    "Codifique, crie, conquiste."
+    "Codifique, crie e conquiste."
     
 <div>
 
