@@ -4,7 +4,12 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-631771268/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__ph.16/)
 
-![Pedro Lopes GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrolopesdeveloper&show_icons=true&theme=dark)
+<a href="https://github.com/pedrolopesdeveloper">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pedrolopesdeveloper&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/pedrolopesdeveloper">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolopesdeveloper&layout=compact" />
+</a>
 
 ## Tecnologias que uso
 
