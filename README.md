@@ -11,7 +11,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolopesdeveloper&layout=compact" />
 </a>
 
-## Tecnologias que uso
+## Tecnologias que estudo
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
